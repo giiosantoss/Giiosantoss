@@ -6,7 +6,7 @@ Meu nome é Giovanna
 - estou me desenvolvendo na linguagem JavaScript
 - utilizo esse espaço para minha organização e compartihamento dos meus projetos desenvolvidos
 
-  -### você pode entar em contato comigo 📧
+  -### você pode entrar em contato comigo 📧
 
   giovannadossantos26009@gmail.com
   
